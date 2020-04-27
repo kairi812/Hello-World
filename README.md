@@ -1,1 +1,2 @@
-# Hello-World
+# python-sample
+Pythonのサンプルスクリプト集
